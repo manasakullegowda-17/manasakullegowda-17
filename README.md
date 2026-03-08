@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Manasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![Manasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=manasakullegowda-17&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=manasakullegwda-17)
+![GitHub Streak](https://streak-stats.demolab.com/?user=manasakullegowda-17)
 
 ---
 
