@@ -46,5 +46,3 @@ Here are some ideas to get you started:
 ## 📫 Connect with me
 LinkedIn: www.linkedin.com/in/manasa-kullegowda-9063aa390
 GitHub: https://github.com/manasakullegowda-17
-LinkedIn: Add your LinkedIn link  
-GitHub: https://github.com/YOURUSERNAME
